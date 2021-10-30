@@ -24,6 +24,8 @@
 .link-list__link--osu:hover{color:#df408a}
 .link-list__link--soundcloud:active,
 .link-list__link--soundcloud:hover{color:#ff8800}
+.link-list__link--linkedin:active,
+.link-list__link--linkedin:hover{color:#1c1cdb}
 
 .bio-list{padding-left:5px;font-size:1.0625em}
 .bio-list__year{position:relative;display:flex;justify-content:center;align-items:center;width:3.5em;padding:.25em 1em;margin-top:3em;font-size:1.176470588235294em}
